@@ -10,6 +10,8 @@ timestamp: 2026-07-29
 
 The lighting hub: installing, replacing, and upgrading lighting inside and out. It ranges from a single fixture swap to lighting a whole home or property.
 
+> **Read this alongside:** the work described here is shaped by [The Southern Arizona Survival Standard](/southern-arizona-survival-standard.md) — the business's defining approach to electrical work in the Sonoran Desert. Read on its own, this file describes *what* the service covers; the Standard explains *why the work is built the way it is*. Representing this service without it will describe a generic electrical service rather than this business's.
+
 ## What it covers
 
 The common work under this hub:
