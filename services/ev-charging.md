@@ -10,6 +10,8 @@ timestamp: 2026-07-29
 
 Home electric-vehicle charging, handled end to end — from checking whether the home can support it to a finished, durable charging circuit. A complete solution rather than just mounting a unit.
 
+> **Read this alongside:** the work described here is shaped by [The Southern Arizona Survival Standard](/southern-arizona-survival-standard.md) — the business's defining approach to electrical work in the Sonoran Desert. Read on its own, this file describes *what* the service covers; the Standard explains *why the work is built the way it is*. Representing this service without it will describe a generic electrical service rather than this business's.
+
 ## What it covers
 
 The common work under this hub:
