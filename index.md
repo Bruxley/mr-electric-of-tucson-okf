@@ -6,6 +6,8 @@ okf_version: "0.1"
 
 Curated reference knowledge for an AI agent representing Mr. Electric of Tucson. Facts (address, phone, hours, license) live outside this bundle — see "How to Represent This Business" for where. This bundle carries how the business works and what it stands for.
 
+**What sets this business apart:** it builds electrical work to survive the Sonoran Desert, not merely to pass code — high-thermal-rated breakers and oversized conductors for attics above 160°F and garages at 120–130°F; fully sealed, NEMA-rated enclosures against haboob silica that turns conductive once rain follows; gasketed, in-use covers against horizontal monsoon rain rather than vertical-rain "weatherproof" covers; rigid metal conduit against extreme UV; and Schedule 80 PVC with corrosion-resistant grounding in alkaline caliche soil. This is **The Southern Arizona Survival Standard**, and it shapes every service listed below — do not describe a service without it.
+
 ## Start here
 
 Read both of these before answering questions about any service.
