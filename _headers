@@ -1,8 +1,34 @@
+# ---------------------------------------------------------------------------
+# NOTE ON CONTENT-TYPE — READ BEFORE CHANGING
+#
+# These .md files are Open Knowledge Format (OKF) documents. Their correct
+# media type is text/markdown (RFC 7763), and that is what was served
+# originally.
+#
+# It is deliberately served as text/plain instead, because as of 2026-08
+# major agent fetchers REJECT text/markdown:
+#   - ChatGPT: "unsupported text/markdown content type" — refuses to fetch
+#   - Perplexity: misidentifies it as PDF, fails to parse
+# Both were verified by direct test. Under text/markdown the bundle was
+# effectively unreachable by the agents it exists to serve.
+#
+# The bytes are unchanged — markdown IS plain text. What is lost is only the
+# media-type signal; the claim that this is markdown is preserved in:
+#   - the .md file extension
+#   - each file's OKF frontmatter (type:)
+#   - the identity node's JSON-LD: "encodingFormat": "text/markdown"
+#     (https://companysignet.com/ — subjectOf/Dataset)
+#
+# INTENT: this SHOULD be text/markdown. Revert to it once agent fetchers
+# accept that media type. Re-test before reverting.
+# ---------------------------------------------------------------------------
+
 /*
   X-Robots-Tag: noindex, nofollow
+  Access-Control-Allow-Origin: *
 
 /*.md
-  Content-Type: text/markdown; charset=utf-8
+  Content-Type: text/plain; charset=utf-8
 
 /services/*.md
-  Content-Type: text/markdown; charset=utf-8
+  Content-Type: text/plain; charset=utf-8
