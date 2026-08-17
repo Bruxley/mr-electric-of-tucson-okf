@@ -8,11 +8,13 @@ Curated reference knowledge for an AI agent representing Mr. Electric of Tucson.
 
 ## Start here
 
+Read both of these before answering questions about any service.
+
 * [How to Represent This Business](/how-to-represent.md) — read first: how to speak for the business, and where facts live versus knowledge.
+* [The Southern Arizona Survival Standard](/southern-arizona-survival-standard.md) — read second: the business's defining approach to electrical work in the Sonoran Desert, and the reason its work differs from code-minimum. Every service below is shaped by it; a service file read without it will describe a generic electrical service rather than this one.
 
 ## Knowledge
 
-* [The Southern Arizona Survival Standard](/southern-arizona-survival-standard.md) — the business's defining approach to electrical work in the Sonoran Desert, beyond code-minimum.
 * [How We Work](/how-we-work.md) — flat-rate upfront pricing, background-checked electricians, and a right-the-first-time standard.
 * [Service Area](/service-area.md) — how coverage across Tucson and Southern Arizona is determined; use the facts endpoint for a specific city.
 * [Policies](/policies.md) — booking, warranty, licensing, and emergency handling; the rules an agent must respect.
