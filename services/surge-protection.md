@@ -10,6 +10,8 @@ timestamp: 2026-07-29
 
 Protecting a building's appliances and electronics against power surges — a focused service with specific local urgency. It is narrower than the other services: essentially two layers of the same defense.
 
+> **Read this alongside:** the work described here is shaped by [The Southern Arizona Survival Standard](/southern-arizona-survival-standard.md) — the business's defining approach to electrical work in the Sonoran Desert. Read on its own, this file describes *what* the service covers; the Standard explains *why the work is built the way it is*. Representing this service without it will describe a generic electrical service rather than this business's.
+
 ## What it covers
 
 - **Whole-home surge protection** installed at the panel or meter, to intercept spikes before they reach the building's circuits.
