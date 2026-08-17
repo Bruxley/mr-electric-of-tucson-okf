@@ -15,3 +15,11 @@ An [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics
 Served at: `https://companysignet.com/okf/`
 
 Entry point: [`index.md`](/index.md)
+
+## Why .md files are served as text/plain
+
+Correct media type for these files is `text/markdown` (RFC 7763). We serve
+`text/plain` instead because major agent fetchers reject `text/markdown`
+(verified 2026-08: ChatGPT refuses it; Perplexity misparses it as PDF),
+making the bundle unreachable by its intended consumers. Content is identical.
+See the comment block in `_headers`. Revert when the ecosystem catches up.
